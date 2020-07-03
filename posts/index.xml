@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on daniel-fish</title>
+    <link>https://daniel-salmon.com/posts/</link>
+    <description>Recent content in Posts on daniel-fish</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>me@daniel-salmon.com (daniel salmon)</managingEditor>
+    <webMaster>me@daniel-salmon.com (daniel salmon)</webMaster>
+    <lastBuildDate>Thu, 02 Jul 2020 22:28:08 -0400</lastBuildDate>
+    
+	<atom:link href="https://daniel-salmon.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>interests</title>
+      <link>https://daniel-salmon.com/posts/interests/</link>
+      <pubDate>Thu, 02 Jul 2020 22:28:08 -0400</pubDate>
+      <author>me@daniel-salmon.com (daniel salmon)</author>
+      <guid>https://daniel-salmon.com/posts/interests/</guid>
+      <description>someday i&amp;rsquo;ll fill this out more thoroughly, but shooting from the hip some of the topics i&amp;rsquo;m most interested in / working on these days:
+ distributed systems cryptography the relation of the above two with game theory databases  side interests:
+ quantum mechanics / quantum field theory transcendental numbers hacking on whatever is holding my attention that day brazilian jiu-jitsu  although with the pandemic i&amp;rsquo;ve just been riding my bike    things i&amp;rsquo;m pretty sure i&amp;rsquo;m not interested in:</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -8,18 +8,41 @@
     <language>en-us</language>
     <managingEditor>me@daniel-salmon.com (daniel salmon)</managingEditor>
     <webMaster>me@daniel-salmon.com (daniel salmon)</webMaster>
-    <lastBuildDate>Thu, 02 Jul 2020 21:47:59 -0400</lastBuildDate>
+    <lastBuildDate>Thu, 02 Jul 2020 22:28:08 -0400</lastBuildDate>
     
 	<atom:link href="https://daniel-salmon.com/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>about</title>
-      <link>https://daniel-salmon.com/page/about/</link>
-      <pubDate>Thu, 02 Jul 2020 21:47:59 -0400</pubDate>
+      <title>papers</title>
+      <link>https://daniel-salmon.com/papers/</link>
+      <pubDate>Thu, 02 Jul 2020 23:10:52 -0400</pubDate>
       <author>me@daniel-salmon.com (daniel salmon)</author>
-      <guid>https://daniel-salmon.com/page/about/</guid>
-      <description></description>
+      <guid>https://daniel-salmon.com/papers/</guid>
+      <description>in reverse chronological order:
+ Seong Youl Choi, Neil D. Christensen, Daniel Salmon, and Xing Wang. 2015. Spin and chirality effects in antler-topology processes at high energy e+e-colliders. Eur. Phys. J. C 75, 10 (2015), 481. https://doi.org/10.1140/epjc/s10052-015-3682-4 arXiv: https://arxiv.org/abs/hep-ph/1503.02666 Neil D. Christensen and Daniel Salmon. 2014. New method for the spin determination of dark matter. Phys. Rev. D 90, 1 (2014), 014025. https://doi.org/10.1103/PhysRevD.90.014025 arXiv: https://arxiv.org/abs/hep-ph/1311.6465  </description>
+    </item>
+    
+    <item>
+      <title>interests</title>
+      <link>https://daniel-salmon.com/posts/interests/</link>
+      <pubDate>Thu, 02 Jul 2020 22:28:08 -0400</pubDate>
+      <author>me@daniel-salmon.com (daniel salmon)</author>
+      <guid>https://daniel-salmon.com/posts/interests/</guid>
+      <description>someday i&amp;rsquo;ll fill this out more thoroughly, but shooting from the hip some of the topics i&amp;rsquo;m most interested in / working on these days:
+ distributed systems cryptography the relation of the above two with game theory databases  side interests:
+ quantum mechanics / quantum field theory transcendental numbers hacking on whatever is holding my attention that day brazilian jiu-jitsu  although with the pandemic i&amp;rsquo;ve just been riding my bike    things i&amp;rsquo;m pretty sure i&amp;rsquo;m not interested in:</description>
+    </item>
+    
+    <item>
+      <title>about</title>
+      <link>https://daniel-salmon.com/about/</link>
+      <pubDate>Thu, 02 Jul 2020 22:24:45 -0400</pubDate>
+      <author>me@daniel-salmon.com (daniel salmon)</author>
+      <guid>https://daniel-salmon.com/about/</guid>
+      <description>i&amp;rsquo;m daniel, a phd student in electrical and computer engineering at the university of pittsburgh. that sounds a bit more hands on than my work actually is, and my research interests are pretty broad, although computation&amp;mdash;broadly defined&amp;mdash;is kind of the central theme. check out interests for more.
+i&amp;rsquo;ve been fortunate enough to work with some pretty talented people, and a quick summary of where i&amp;rsquo;ve been in the past:
+ wilmerlab &amp;ndash; currently niche.</description>
     </item>
     
   </channel>
