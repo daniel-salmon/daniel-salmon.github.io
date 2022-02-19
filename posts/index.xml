@@ -1,18 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on daniel-fish</title>
+    <title>Posts on daniel-salmon</title>
     <link>https://daniel-salmon.com/posts/</link>
-    <description>Recent content in Posts on daniel-fish</description>
+    <description>Recent content in Posts on daniel-salmon</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <managingEditor>me@daniel-salmon.com (daniel salmon)</managingEditor>
     <webMaster>me@daniel-salmon.com (daniel salmon)</webMaster>
-    <lastBuildDate>Sun, 19 Jul 2020 14:44:08 -0400</lastBuildDate>
-    
-	<atom:link href="https://daniel-salmon.com/posts/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Sun, 19 Jul 2020 14:44:08 -0400</lastBuildDate><atom:link href="https://daniel-salmon.com/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>nonplanarity and javascript</title>
       <link>https://daniel-salmon.com/posts/nonplanarity-and-javascript/</link>
